@@ -28,4 +28,4 @@
   - `useRef` - https://react.dev/reference/react/useRef
   - `chart.js` - https://www.chartjs.org/docs/latest/getting-started/    
 
-Видео - 
+Видео - https://youtube.com/shorts/ORKoKvASo-A?feature=share
